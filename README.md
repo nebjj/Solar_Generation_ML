@@ -26,33 +26,33 @@ The project uses the Solar Power Generation Data containing:
 4. Time-series power generation records
 
 Features Used
-	Plant ID
-	Inverter ID
-	Irradiation
-	Ambient Temperature
-	Module Temperature
-	DC Power (Model 1)
-	Hour, Day, Month
-	Day of Week
-	Hour (Sin/Cos Encoding)
-	Temperature Difference
-	Lag Features (Model 2B)
-	AC_POWER_LAG_1
-	AC_POWER_LAG_2
-	AC_POWER_LAG_4
-	Rolling Mean
+	Plant ID,
+	Inverter ID,
+	Irradiation,
+	Ambient Temperature,
+	Module Temperature,
+	DC Power (Model 1),
+	Hour, Day, Month,
+	Day of Week,
+	Hour (Sin/Cos Encoding),
+	Temperature Difference,
+	Lag Features (Model 2B),
+	AC_POWER_LAG_1,
+	AC_POWER_LAG_2,
+	AC_POWER_LAG_4,
+	Rolling Mean,
 	Rolling Standard Deviation
 
 Technologies Used
-	Python
-	Pandas
-	NumPy
-	Scikit-learn
-	XGBoost
-	CatBoost
-	LightGBM
-	Random Forest
-	Matplotlib
+	Python,
+	Pandas,
+	NumPy,
+	Scikit-learn,
+	XGBoost,
+	CatBoost,
+	LightGBM,
+	Random Forest,
+	Matplotlib,
 	Tableau
 
 Exploratory Data Analysis
