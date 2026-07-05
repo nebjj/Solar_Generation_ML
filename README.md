@@ -197,7 +197,7 @@ Future Improvements
 	Cloud deployment (AWS/Azure/GCP)
 
 Results
-	Successfully developed three machine learning models for solar power estimation and forecasting.
-	Achieved 95.89% forecasting accuracy (R²) using XGBoost with lag features.
-	Built interactive Tableau dashboards for operational monitoring, environmental analysis, and prediction evaluation.
-	Demonstrated that incorporating historical power information significantly improves forecasting performance.
+	1. Successfully developed three machine learning models for solar power estimation and forecasting.
+	2. Achieved 95.89% forecasting accuracy (R²) using XGBoost with lag features.
+	3. Built interactive Tableau dashboards for operational monitoring, environmental analysis, and prediction evaluation.
+	4. Demonstrated that incorporating historical power information significantly improves forecasting performance.
